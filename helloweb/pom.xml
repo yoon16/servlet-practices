@@ -9,7 +9,6 @@
 	</parent>
 	<artifactId>helloweb</artifactId>
 	<packaging>war</packaging>
-
 	<dependencies>
 	</dependencies>
 
